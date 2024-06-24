@@ -564,7 +564,7 @@ function decodeHtmlEntities(htmlStr){
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <link rel="icon" type="image/png" sizes="32x32" href="${url.resourcesPath}/dist/favicon-32x32.png">
-      <script type="module" crossorigin="" src="${url.resourcesPath}/dist/assets/index-CZQagKpW.js"></script>
+      <script type="module" crossorigin="" src="${url.resourcesPath}/dist/assets/index-CSf31SO4.js"></script>
     </head>
 
     <body>
