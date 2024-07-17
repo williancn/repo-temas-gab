@@ -1,15 +1,16 @@
 <#macro emailLayout>
-<html>
+   <html>
+
    <head>
       <style>
-         .main-text {
+      .main-text {
          text-align: center;
          font-size: 14px;
          line-height: 1.5;
          width: 80%;
-         }
+      }
 
-         .reset-password-btn {
+      .reset-password-btn {
          background-color: #564d8f;
          color: #ffffff !important;
          display: inline-block;
@@ -20,19 +21,20 @@
          text-align: center;
          text-decoration: none;
          width: 200px;
-         }
+      }
 
-         .small-link {
+      .small-link {
          color: #999;
          font-size: 11px;
          margin: 4px;
-         }
+      }
 
-         .centered-text {
-            text-align: center;
-        }
+      .centered-text {
+         text-align: center;
+      }
       </style>
    </head>
+
    <body>
       <div>
          <table border="0"
@@ -43,10 +45,10 @@
             <tbody>
                <tr>
                   <td align="center" valign="top" style="border-collapse: collapse">
-                     <table  border="0" cellpadding="0" cellspacing="20" width="600">
+                     <table border="0" cellpadding="0" cellspacing="20" width="600">
                         <tbody>
                            <tr>
-                              <td  align="center"
+                              <td align="center"
                                  valign="top"
                                  style="border-collapse: collapse">
                                  <table
@@ -59,8 +61,7 @@
                                     background-image: none;
                                     background-repeat: repeat;
                                     background-position: top left;
-                                    "
-                                    >
+                                    ">
                                     <tbody>
                                        <tr>
                                           <td align="center"
@@ -77,17 +78,15 @@
                                                 background-image: none;
                                                 background-repeat: repeat;
                                                 background-position: top left;
-                                                "
-                                                >
+                                                ">
                                                 <tbody>
                                                    <tr>
                                                       <td
                                                          align="center"
                                                          valign="middle"
-                                                         style="border-collapse: collapse"
-                                                         >
-                                                         <a href="http://localhost:8080/realms/keycloak-react-auth/login-actions/authenticate?execution=9cba6c98-c15e-4f79-9bd9-f2824800b08f&client_id=React-auth&tab_id=LtuBALFP8HU" target="_blank">
-                                                         <img src="https://lh3.googleusercontent.com/u/6/drive-viewer/AK7aPaA_J54JBiwfOiXyH_NCLZKXcWHpCeIKWSEHOB3kozwfJ7N547w4rRIARofDwxWGFsN9k3ynixcD61gKB5V1Y5f5TAAh1w=w2560-h1279" width="150" alt="Grupo Gab">
+                                                         style="border-collapse: collapse">
+                                                         <a href="http://sniff.allpromotora.com.br/" target="_blank">
+                                                            <img src="${logoEmail}" width="150" alt="Grupo Gab">
                                                          </a>
                                                       </td>
                                                    </tr>
@@ -104,8 +103,7 @@
                                                 cellpadding="0"
                                                 cellspacing="0"
                                                 height="1"
-                                                width="100%"
-                                                >
+                                                width="100%">
                                                 <tbody>
                                                    <tr>
                                                       <td
@@ -115,8 +113,7 @@
                                                          border-collapse: collapse;
                                                          background-color: #eeeeee;
                                                          "
-                                                         width="249"
-                                                         ></td>
+                                                         width="249"></td>
                                                       <td
                                                          align="center"
                                                          valign="middle"
@@ -128,8 +125,7 @@
                                                          #ff0000,
                                                          #9147ff
                                                          );
-                                                         "
-                                                         ></td>
+                                                         "></td>
                                                       <td
                                                          align="center"
                                                          valign="middle"
@@ -137,8 +133,7 @@
                                                          border-collapse: collapse;
                                                          background-color: #eeeeee;
                                                          "
-                                                         width="249"
-                                                         ></td>
+                                                         width="249"></td>
                                                    </tr>
                                                 </tbody>
                                              </table>
@@ -157,5 +152,6 @@
          </table>
       </div>
    </body>
-</html>
+
+   </html>
 </#macro>
