@@ -86,7 +86,7 @@
                                                          valign="middle"
                                                          style="border-collapse: collapse">
                                                          <a href="http://sniff.allpromotora.com.br/" target="_blank">
-                                                            <img src="${url.resourcesPath}/img/logo-gab.png" width="150" alt="Grupo Gab">
+                                                            <img src="${url.resourcesPath}/img/logo.png" width="150" alt="Grupo Gab">
                                                          </a>
                                                       </td>
                                                    </tr>
