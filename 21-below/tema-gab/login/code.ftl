@@ -26,7 +26,7 @@ if( kcContext.messagesPerField ){
         }
     };
 }
-kcContext.keycloakifyVersion = "10.0.0-rc.91";
+kcContext.keycloakifyVersion = "10.0.0-rc.94";
 kcContext.themeVersion = "0.0.1";
 kcContext.themeType = "login";
 kcContext.themeName = "tema-gab";
@@ -564,7 +564,7 @@ function decodeHtmlEntities(htmlStr){
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <link rel="icon" type="image/png" sizes="32x32" href="${url.resourcesPath}/dist/favicon-32x32.png">
-      <script type="module" crossorigin="" src="${url.resourcesPath}/dist/assets/index-CSf31SO4.js"></script>
+      <script type="module" crossorigin="" src="${url.resourcesPath}/dist/assets/index-C1swb0FA.js"></script>
     </head>
 
     <body>
